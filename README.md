@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Olá, sou o Arthur Menezes, aspirante a desenvolvedor Python e web!</h1>
+<h1>Olá, sou o Arthur Menezes, aspirante a dev Python e web!</h1>
 </div>
 
 <div align="center">
