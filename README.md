@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Olá, sou o Arthur Menezes, aspirante a desenvolvedor mobile e web!</h1>
+<h1>Olá, sou o Arthur Menezes, aspirante a desenvolvedor Python e web!</h1>
 </div>
 
 <div align="center">
@@ -12,7 +12,6 @@
   
 <div style="display: inline_block"><br>
  <img align="center" alt="Thui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="Thui-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
  <img align="center" alt="Thui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="Thui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Thui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
